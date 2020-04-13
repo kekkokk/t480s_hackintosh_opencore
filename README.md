@@ -4,6 +4,7 @@ CLOVER EFI for t480s osx Catalina
 What's working:
 Basically everything
 
+* Trackpad with gestures (also trackpoint works, no need to disable in BIOS)
 * Wifi + BT (Dell 1830 or 1560)
 * Webcam
 * Audio input/output
@@ -11,7 +12,6 @@ Basically everything
 * Usb-c
 * Media keys
 * Sleep / wake
-* Trackpad with gestures
 * Sensors
 
 Not Working:
